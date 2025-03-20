@@ -1,0 +1,29 @@
+.main-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.table {
+  width: 50%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.aligned {
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
